@@ -117,7 +117,7 @@ button{
     }
     .box-img3{
         border: 2px solid white;
-        background-image: url("Frame\ 16\ \(2\).png");
+        background-image: url("Frame\ 16\ \(3\).png");
         background-size: cover;
         background-position: center;
     }
@@ -129,7 +129,8 @@ button{
         position: absolute;
         top:13%;
         left: 65%;
-        background-image: url("survey_form1/Frame 46 (4).png");
+        /* background-image: url("survey_form1/Frame 46 (4).png"); */
+        background-image: url("Frame\ 46\ \(4\).png");
         background-size: cover;
         background-position: center;
     }
